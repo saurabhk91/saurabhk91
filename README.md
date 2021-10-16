@@ -4,6 +4,3 @@
 finish.</p>
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=saurabhk91 alt=saurabhk91 /> </p>
-
-[![Github stats](https://github-readme-stats.vercel.app/api?username=saurabhk91&show_icons=true&include_all_commits=true)](https://github.com/saurabhk91/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhk91&layout=compact)](https://github.com/saurabhk91/github-readme-stats)
