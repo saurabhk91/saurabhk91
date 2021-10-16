@@ -4,3 +4,9 @@
 finish.</p>
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=saurabhk91 alt=saurabhk91 /> </p>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=saurabhk91&show_icons=true&count_private=true)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=saurabhk91)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=saurabhk91)](https://github.com/ryo-ma/github-profile-trophy)
