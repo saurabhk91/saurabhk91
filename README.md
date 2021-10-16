@@ -7,6 +7,8 @@
 <p align='left'>A results-driven frontend developer from India with more than 5 years of experience in producing robust code to create and optimize interactive user-friendly, and feature-rich websites. Leveraging analytical skills and strong attention to detail in order to deliver original and efficient web solutions, Technically proficient and analytical problem solver with calm and focused demeanour providing technical knowledge and expertise while building new websites from start to
 finish.</p>
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saurabhk91&theme=github_dark)
+
 ---
 
 
@@ -17,4 +19,4 @@ finish.</p>
 
 <h3 align="left">Some of my Github Stats</h3>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saurabhk91&theme=github_dark)![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=saurabhk91&theme=vue-dark)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=saurabhk91&theme=vue-dark)
