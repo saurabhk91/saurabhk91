@@ -5,7 +5,7 @@ finish.</p>
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=saurabhk91 alt=saurabhk91 /> </p>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=saurabhk91)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=saurabhk91&theme=vue-dark)  
 
 <p align="left">
 <a href="https://stackoverflow.com/users/7369564/saurabh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="7369564" height="30" width="40" /></a>
