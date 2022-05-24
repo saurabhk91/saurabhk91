@@ -19,3 +19,7 @@ finish.</p>
 <h3 align="left">Some of my Github Stats</h3>
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=saurabhk91&theme=vue-dark)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanu-N-Prabhu&theme=blue-green)
+
+## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
