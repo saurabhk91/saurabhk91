@@ -13,9 +13,6 @@ finish.</p>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saurabhk91&theme=github_dark)
 
-<h3 align="left">Some of my Github Stats</h3>
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=saurabhk91&theme=vue-dark)
 
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
