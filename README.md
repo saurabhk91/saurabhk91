@@ -2,7 +2,7 @@
 
 ## Hey 👋, This is Saurabh
 
-<p align='left'>A results-driven frontend developer producing robust code to create and optimize interactive user-friendly, and feature-rich websites. Leveraging analytical skills and strong attention to detail in order to deliver original and efficient web solutions, Technically proficient and analytical problem solver with a calm and focused demeanour providing technical knowledge and expertise while building new websites from start to
+<p align='left'>A results-driven developer producing robust code to create and optimize interactive user-friendly, and feature-rich websites. Leveraging analytical skills and strong attention to detail in order to deliver original and efficient web solutions, Technically proficient and analytical problem solver with a calm and focused demeanour providing technical knowledge and expertise while building new websites from start to
 finish.</p>
 
 [![Gmail Badge](https://img.shields.io/badge/-saurabhkumar9616@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:saurabhkumar9616@gmail.com)](mailto:saurabhkumar9616@gmail.com) 
